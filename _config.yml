@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Ivan Gabriele"
+title: Practicing Data Science in Field
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Passionate. Entrepreneur & Developer. Here are some extracts of the raw trepidations from my unravelled mind. You have been warned !"
+description: Using Data Mining, Statistical Modelling and Optimization
 
 # Tagline near the site title
-tagline: "Passionate. Entrepreneur & Developer."
+tagline: "Learn to Serve. Serve to Learn More."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -53,16 +53,16 @@ banner_text: "If you're looking for a serious exchange to trade crypto-currencie
 mailchimp_url: "//inspired-beings.us4.list-manage.com/subscribe/post?u=b6cde986b53329195cc6f9d8e&amp;id=d76e394a53"
 
 # Social links in the site footer
-twitter_username: "Ivan_Gabriele"
+twitter_username: ""
 # facebook_username: "username"
-googleplus_username: "+IvanGabriele"
-github_username: "ivangabriele"
+googleplus_username: ""
+github_username: ""
 # codepen_username: "username"
 # dribbble_uername: "username"
-medium_username: "@ivan_gabriele"
+medium_username: ""
 # instagram_username: "username"
 # pinterest_username: "username"
-linkedin_username: "ivangabriele"
+linkedin_username: ""
 # weibo_username: "username"
 
 # http://jekyllrb.com/docs/pagination/
