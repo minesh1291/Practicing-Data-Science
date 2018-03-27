@@ -12,4 +12,4 @@ tags: [kaggle,house-pricing,linear-regression,beginner]
   * This is a very simple model to begin, in future we will perform data cleaning, exploratory analysis and advanced modelling techniques, etc.
   * But at this level you can try fork and run the given kernel, main goal here is to introduce you to simple python script for modelling using pandas, numpy and scikit learn. 
   * To improve model first you can note down current <i>RMSE</i> for model, then you can try using other feature than which we already used and have hands-on experiance.
-  * If you encounter any problem you can [create issue](https://github.com/minesh1291/Practicing-Data-Science/issues/new) with script sniplet and output.
+  * If you encounter any problem you can ask in comment with script sniplet and output.
