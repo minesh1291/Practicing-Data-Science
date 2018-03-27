@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://www.ivangabriele.com"
+url: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -35,13 +35,13 @@ navigation:
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: ivan-gabriele
+disqus: mineshjethva
 
 # Author information - author info at the bottom of the post
-author_name: "Ivan Gabriele"
-author_bio: "CEO of Inspired Beings.<br>Founder of European Dream,<br>Mars Jump and Coinboard.<br>Actually in Paris, I also lived in São Paulo, Chicago and London. 15 years of work for more than 100 clients.<br>Occasional pianist and music composer. In love with argumentativeness, travels and surf."
-author_url:  "http://www.ivangabriele.com"
-author_location: "Paris, France"
+author_name: "Minesh A. Jethva"
+author_bio: "PhD Bioinformatics. Cancer Immunology & Precision Medicine. Using Genomics & Transcriptomics. Bioinformatics Data Scientist."
+author_url:  ""
+author_location: "Beersheva, Israel"
 author_image: /images/ivan-gabriele.png
 
 # Sidebar Add banner
