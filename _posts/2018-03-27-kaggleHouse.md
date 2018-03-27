@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Let's start with a well-known dataset"
-date:   2013-12-18
-banner_image: PHP.jpg
+date:   2018-03-27
 tags: [kaggle,house-pricing,linear-regression,beginner]
 ---
 
