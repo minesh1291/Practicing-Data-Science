@@ -12,7 +12,10 @@ title: Practicing Data Science in Field
 description: Using Data Mining, Statistical Modelling and Optimization
 
 # Tagline near the site title
-tagline: "Learn to Serve. Serve to Learn More."
+tagline: "Let's data be the truth."
+
+# Google Analytics
+google_analytics: UA-116218531-1
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
