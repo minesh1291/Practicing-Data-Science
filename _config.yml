@@ -53,19 +53,19 @@ banner_image: images/binance-banner.png
 banner_text: "If you're looking for a serious exchange to trade crypto-currencies, I strongly vouch for <a href=\"https://www.binance.com/?ref=10265687\" target=\"_blank\">Binance</a>. I use it myself and wrote <a href=\"/2017/12/21/the-best-exchanges-to-buy-and-sell-your-cryptocurrencies\">a detailed article</a> to explain why it has become my main exchange."
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//inspired-beings.us4.list-manage.com/subscribe/post?u=b6cde986b53329195cc6f9d8e&amp;id=d76e394a53"
+#mailchimp_url: "//inspired-beings.us4.list-manage.com/subscribe/post?u=b6cde986b53329195cc6f9d8e&amp;id=d76e394a53"
 
 # Social links in the site footer
 twitter_username: ""
 # facebook_username: "username"
 googleplus_username: ""
-github_username: ""
+github_username: "minesh1291"
 # codepen_username: "username"
 # dribbble_uername: "username"
-medium_username: ""
+medium_username: "@MineshJ1291"
 # instagram_username: "username"
 # pinterest_username: "username"
-linkedin_username: ""
+linkedin_username: "mineshjethva"
 # weibo_username: "username"
 
 # http://jekyllrb.com/docs/pagination/
