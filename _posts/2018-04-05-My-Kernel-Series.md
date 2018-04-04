@@ -2,10 +2,11 @@
 layout: post
 title:  "My Kernel Series"
 date:   2018-04-05
-tags: [Kernel, Python, Notebook, House Pricing, Kaggle]
+tags: [Kernel, Python, Notebook, House Pricing, Kaggle, Competition, Linear Regression]
 ---
 
 # My Kernel Series
+For Kaggle House Pricing Competition
 Under Construction...
 
 1. Minimal [Kernel](https://www.kaggle.com/mineshjethva/let-s-do-the-minimal) LB: 0.60109
@@ -42,7 +43,7 @@ Under Construction...
   * dummy categorical features
   * ElasticNetCV
 
-6. Minimal + Normalized X + NaN Imput [Kernel]() LB: ...
+6. Minimal + Normalized X + NaN Imput [Kernel...]() LB: ...
   * NaN =&gt; Most Freq
   * LinearRegression(Normalized X)
  
