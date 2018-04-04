@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Kernel Series"
-date:   2018-03-27
+date:   2018-04-05
 tags: [Kernel, Python, Notebook, House Pricing, Kaggle]
 ---
 
