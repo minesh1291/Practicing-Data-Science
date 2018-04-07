@@ -14,36 +14,39 @@ Under Construction...
   * LinearRegression
 
 2. Minimal + Normalized X [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x) LB: 0.30013
-  * NaN =&gt; Median
   * LinearRegression(Normalized X)
 
 3. Minimal + Normalized X,y [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-y) LB: 0.14305
-  * NaN =&gt; Median
-  * LinearRegression(Normalized X)
   * y = log2(y)
 
 4. Minimal + Normalized X skew,y [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y) LB: 0.14104
-  * NaN =&gt; Median
-  * LinearRegression(Normalized X)
-  * y = log2(y)
   * X = log2(X) if abs(skew) &gt; 1.7 &amp; no Inf issues
 
 5. Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764
-  * NaN =&gt; Median
-  * LinearRegression(Normalized X)
-  * y = log2(y)
-  * X = log2(X) if abs(skew) &gt; 1.7 &amp; no Inf issues
-  * filter X if Variance < 0.2 and not correlated with target y
+  * filter X if Variance &lt; 0.2 and not correlated with target y
 
 6. Normalized X,y + dummy [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-categoricals) LB: 0.13817
-  * NaN =&gt; Median
-  * LinearRegression(Normalized X)
-  * y = log2(y)
-  * X = log2(X) if abs(skew) &gt; 1.7 &amp; no Inf issues
   * dummy categorical features
   * ElasticNetCV
 
-6. Minimal + Normalized X + NaN Imput [Kernel...]() LB: ...
-  * NaN =&gt; Most Freq
-  * LinearRegression(Normalized X)
- 
+7.  Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.1 LB: 0.13343
+ * all previous things plus  
+ * ElasticNetCV alpha optimization
+
+8. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
+ * ElasticNetCV L1_ratio = 0.1
+ * ElasticNetCV alpha optimization
+ * Bagged with **5.** Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764
+
+9. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.7 LB 0.12408
+ * ElasticNetCV L1_ratio = 1
+ * ElasticNetCV alpha optimization
+ * Bagged with **5.** Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764 and **8.** Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
+
+
+Under Construction...
+Next things in the list are:
+
+ * NaN Imputation
+ * Outlier Remove
+ * Ensemble
