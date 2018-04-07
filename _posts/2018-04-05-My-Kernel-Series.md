@@ -9,6 +9,9 @@ tags: [Kernel, Python, Notebook, House Pricing, Kaggle, Competition, Linear Regr
 For Kaggle House Pricing Competition
 Under Construction...
 
+# My Kernel Series A-Z
+Under Construction...
+
 1. Minimal [Kernel](https://www.kaggle.com/mineshjethva/let-s-do-the-minimal) LB: 0.60109
   * NaN =&gt; Median
   * LinearRegression
@@ -25,6 +28,8 @@ Under Construction...
 5. Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764
   * filter X if Variance &lt; 0.2 and not correlated with target y
 
+<hr><hr>
+
 6. Normalized X,y + dummy [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-categoricals) LB: 0.13817
   * dummy categorical features
   * ElasticNetCV
@@ -33,20 +38,29 @@ Under Construction...
  * all previous things plus  
  * ElasticNetCV alpha optimization
 
-8. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
+8. Beginner ElasticNet + Univar_models [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet-univar-models) Ver.2 LB: 0.13101
+ * ElasticNetCV L1_ratio = 1
+ * ElasticNetCV alpha optimization
+ * Bagged with Simple Linear Regression using selected features by Univariate model performance TestMSE < 0.5
+
+9. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
  * ElasticNetCV L1_ratio = 0.1
  * ElasticNetCV alpha optimization
  * Bagged with **5.** Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764
 
-9. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.7 LB 0.12408
+10. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.7 LB 0.12408
  * ElasticNetCV L1_ratio = 1
  * ElasticNetCV alpha optimization
- * Bagged with **5.** Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764 and **8.** Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
+ * Bagged with **5.** Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764 and **9.** Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
+
 
 
 Under Construction...
-Next things in the list are:
 
+Next things in the list are:
+ 
+ * max_iter=1000, tol=0.0001 ? optimize
+ * positive &amp; Selection with t&lt;1e-8
  * NaN Imputation
  * Outlier Remove
  * Ensemble
