@@ -48,6 +48,8 @@ Under Construction...
      * Bagged with 1/3
      * Thresold 0.55
      * ElasticNetCV L1_ratio = 0.2
+10. Beginner ElasticNet + Univar_models [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet-univar-models) ver.7 LB: 0.12860
+
 
 10. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
  * ElasticNetCV L1_ratio = 0.1
