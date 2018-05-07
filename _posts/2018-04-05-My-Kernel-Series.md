@@ -71,19 +71,8 @@ Next things in the list are:
  
  * max_iter=1000, tol=0.0001 ? optimize
  * positive &amp; Selection with t&lt;1e-8
-
  * NaN Imputation
  * Outlier Remove
  * Ensemble
-
-
 
 Under Construction...
-
-Next things in the list are:
- 
- * max_iter=1000, tol=0.0001 ? optimize
- * positive &amp; Selection with t&lt;1e-8
- * NaN Imputation
- * Outlier Remove
- * Ensemble
