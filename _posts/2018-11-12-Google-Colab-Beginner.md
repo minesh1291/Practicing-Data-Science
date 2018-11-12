@@ -3,7 +3,7 @@ layout: post
 title:  "Google Colab Beginner"
 date:   2018-11-12
 banner_image : google-colab.png
-tags: [R, Python, Data Science, Jobs, Machine Learning]
+tags: [R, Python, Data Science, Colab, Notebook, Jupyter, Google Colab, Machine Learning]
 ---
 
 # Google Colab Beginner
