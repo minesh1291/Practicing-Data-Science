@@ -2,6 +2,7 @@
 layout: post
 title:  "My Kernel Series"
 date:   2018-04-05
+banner_image : house-pricing-predictions.png
 tags: [Kernel, Python, Notebook, House Pricing, Kaggle, Competition, Linear Regression]
 ---
 
@@ -44,7 +45,7 @@ Under Construction...
  * Previous kernel with thresold 0.55 instead on 0.5
  * ver4 LB: 0.13976 didn' improve
      * Bagged with 2/3
- * ver5 LB: 0.13131 
+ * ver5 LB: 0.13131
      * Bagged with 1/3
      * Thresold 0.55
      * ElasticNetCV L1_ratio = 0.2
@@ -59,16 +60,16 @@ Under Construction...
 11. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.7 LB 0.12408
  * ElasticNetCV L1_ratio = 1
  * ElasticNetCV alpha optimization
- * Bagged with 
-    1. Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764 
-and 
+ * Bagged with
+    1. Minimal + Normalized X skew,y + filter low Var [Kernel](https://www.kaggle.com/mineshjethva/the-minimal-normalize-x-skew-y-exploratory) LB: 0.13764
+and
     2. Beginner ElasticNet [Kernel](https://www.kaggle.com/mineshjethva/beginner-elasticnet) Ver.5 LB 0.12811
 
 
 
 
 Next things in the list are:
- 
+
  * max_iter=1000, tol=0.0001 ? optimize
  * positive &amp; Selection with t&lt;1e-8
  * NaN Imputation
