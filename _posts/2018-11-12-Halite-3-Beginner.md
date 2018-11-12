@@ -3,7 +3,7 @@ layout: post
 title:  "Halite 3 Beginner"
 date:   2018-11-12
 banner_image : halite3.png
-tags: [Python, Halite, Artificial Intelligence, Competition, Machine Learning, Optimization, Swarm Optimization, Two Sigma]
+tags: [Python, Halite, Artificial Intelligence, Competition, Machine Learning, Optimization, Swarm Optimization, Two Sigma, Beginner]
 ---
 
 # Halite 3 Beginner

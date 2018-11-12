@@ -3,7 +3,7 @@ layout: post
 title:  "Let's start with a well-known dataset"
 date:   2018-03-27
 banner_image : house-pricing.png
-tags: [kaggle,house-pricing,linear-regression,beginner]
+tags: [Kaggle, House Pricing Competition, Linear Regression, Beginner]
 ---
 
 * We will start to build simple linear regression model for Predicting house pricing.

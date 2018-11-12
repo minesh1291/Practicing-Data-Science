@@ -3,7 +3,7 @@ layout: post
 title:  "My Kernel Series"
 date:   2018-04-05
 banner_image : house-pricing-predictions.png
-tags: [Kernel, Python, Notebook, House Pricing, Kaggle, Competition, Linear Regression]
+tags: [Kernel, Python, Notebook, House Pricing, Kaggle, Competition, Linear Regression, Beginner]
 ---
 
 # My Kernel Series
