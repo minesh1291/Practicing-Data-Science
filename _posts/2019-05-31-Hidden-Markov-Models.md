@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hidden Markov Models"
-date:   2018-05-31
+date:   2019-05-31
 banner_image : hmm_banner.png
 tags: [R, Python, Data Science, Time Series, Sequential Models, Natural Language Processing, Machine Learning]
 ---
