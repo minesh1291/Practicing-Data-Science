@@ -35,14 +35,14 @@ navigation:
 # - text: Style Guides
 #   url: /style-guide/
 - text: Archives
-  url: /tags/
+  url: /Practicing-Data-Science/tags/
 
 # The shortname for your Disqus site to enable comments.
 disqus: mineshjethva
 
 # Author information - author info at the bottom of the post
 author_name: "Minesh A. Jethva"
-author_bio: "A Ph.D. researcher working on Cancer Immunology & Precision Medicine using Bioinformatics approaches. Looking forward to joining industrial career as Bioinformatics Data Scientist."
+author_bio: "Data Scientist & Kaggle Expert, experianced with Sequence Modeling and Deep Learning for IoT Signal Processing, Computer Vision, Natural Language Processing"
 author_url:  "https://www.linkedin.com/in/mineshjethva/"
 author_location: "Beersheva, Israel"
 author_image: /images/Minesh.jpg
